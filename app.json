@@ -1,8 +1,8 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
+    "name": "dInEtH_rUsIrU_WhatsApp_Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
-    "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+    "repository": "https://github.com/dinethgithub/CYBER-X-WHATSAPP-BOT",
+    "logo": "https://telegra.ph/file/b9126445ff7e06265aed1.png",
     "keywords": [
         "nodejs",
         "Bot",
@@ -12,24 +12,24 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "cyber-x@;;;4V9SyJaZ#PseufEnSHO0pGYgfzp_NsZ2s69OAPbE2CKRaFxCDFgY",
             "required": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "aad037f1-92c5-4531-8f42-6f7d261ecc6f",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
             "required": true,
-            "value": ""
+            "value": "dinethmybot077"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
